@@ -1,0 +1,201 @@
+product_id,product_name,product_category,unit_price,current_stock_level
+P001,Spices Mix 8,Grocery,128,307
+P002,Wheat Flour 13,Grocery,604,855
+P003,Salt 7,Grocery,261,461
+P004,Sugar 6,Grocery,366,459
+P005,Mixed Pulses 12,Grocery,738,319
+P006,Spices Mix 8,Grocery,84,971
+P007,Wheat Flour 10,Grocery,237,933
+P008,Sugar 10,Grocery,59,654
+P009,Cooking Oil 6,Grocery,55,883
+P010,Salt 4,Grocery,549,621
+P011,Honey 1,Grocery,356,775
+P012,Mixed Pulses 8,Grocery,332,719
+P013,Coffee Powder 17,Grocery,325,494
+P014,Mixed Pulses 4,Grocery,268,422
+P015,Sugar 7,Grocery,214,44
+P016,Tea Leaves 10,Grocery,303,968
+P017,Wheat Flour 2,Grocery,749,566
+P018,Honey 8,Grocery,581,434
+P019,Honey 16,Grocery,443,470
+P020,Tea Leaves 19,Grocery,450,783
+P021,Mixed Pulses 10,Grocery,752,35
+P022,Coffee Powder 17,Grocery,152,166
+P023,Sugar 13,Grocery,116,313
+P024,Sugar 10,Grocery,759,716
+P025,Salt 9,Grocery,323,979
+P026,Tea Leaves 14,Grocery,334,729
+P027,Coffee Powder 2,Grocery,690,545
+P028,Tea Leaves 17,Grocery,88,433
+P029,Honey 14,Grocery,718,897
+P030,Basmati Rice 13,Grocery,522,472
+P031,Coffee Powder 7,Grocery,614,400
+P032,Coffee Powder 7,Grocery,211,251
+P032,Unknown,Grocery,752,396
+P034,Sugar 16,Grocery,138,200
+P035,Honey 11,Grocery,112,995
+P036,Mixed Pulses 10,Grocery,289,572
+P037,Basmati Rice 4,Grocery,436,707
+P038,Sugar 15,Grocery,531,47
+P039,Basmati Rice 4,Grocery,504,234
+P040,Basmati Rice 12,Grocery,740,418
+P041,Smart Watch 2,Electronics,30300,515
+P042,LED TV 18,Electronics,6193,940
+P043,Speaker 19,Electronics,23421,843
+P044,Power Bank 9,Electronics,18761,34
+P045,Webcam 16,Electronics,11342,799
+P046,Power Bank 4,electonics,18691,431
+P047,Power Bank 2,Electronics,26869,782
+P048,Speaker 7,Electronics,5823,152
+P049,Keyboard 9,Electronics,2691,274
+P050,Smart Watch 10,Electronics,6293,671
+P051,Headphones 8,Electronics,4261,976
+P052,LED TV 4,Electronics,30162,718
+P053,LED TV 8,Electronics,1701,150
+P054,Power Bank 10,Electronics,20808,778
+P055,USB Cable 17,Electronics,9445,409
+P056,Webcam 4,Electronics,5737,624
+P057,Gaming Mouse 1,Electronics,34499,728
+P058,Smart Watch 2,Electronics,5499,292
+P059,Webcam 8,Electronics,6888,611
+P060,Gaming Mouse 6,Electronics,33592,121
+P061,Smart Watch 19,Electronics,8784,942
+P062,LED TV 11,Electronics,17744,108
+P063,LED TV 12,Electronics,15570,604
+P064,Gaming Mouse 16,Electronics,14880,73
+P065,Headphones 19,Electronics,12610,555
+P066,LED TV 8,Electronics,9709,796
+P067,USB Cable 14,Electronics,19151,301
+P068,Headphones 5,Electronics,33902,737
+P069,USB Cable 12,Electronics,4046,15
+P070,Webcam 6,Electronics,11761,137
+P071,Keyboard 1,Electronics,4788,26
+P072,Keyboard 4,Electronics,36335,342
+P073,Bluetooth Earbuds 6,Electronics,23227,120
+P074,Keyboard 1,Electronics,16946,899
+P075,Power Bank 6,Electronics,26347,848
+P076,Gaming Mouse 18,Electronics,27572,669
+P077,Headphones 3,Electronics,38572,215
+P078,Webcam 8,Electronics,13577,458
+P079,Keyboard 2,Electronics,14115,764
+P080,Power Bank 11,Electronics,14642,588
+P081,Sneakers 15,Clothing,3434,176
+P082,Casual Pants 11,Clothing,540,53255
+P083,Cap 15,Clothing,2612,31
+P084,Sneakers 15,Clothing,3293,602
+P085,Cap 7,Clothing,3129,439
+P086,T-Shirt 9,Clothing,2504,698
+P087,Sneakers 13,Clothing,2551,211
+P088,Sneakers 20,Clothing,2792,288
+P089,Hoodie 5,Clothing,1600,870
+P090,Formal Shirt 4,Clothing,423,445
+P091,Track Suit 5,Clothing,3076,398
+P092,Jeans 19,Clothing,2900,797
+P093,Sneakers 13,Clothing,1020,544
+P094,Cap 20,Clothing,2368,86
+P095,Jeans 8,Clothing,1637,451
+P096,T-Shirt 11,Clothing,2746,306
+P097,Sneakers 1,Clothing,3441,949
+P098,T-Shirt 7,Clothing,804,351
+P099,Cap 1,Clothing,1107,400
+P100,Formal Shirt 18,Clothing,1770,360
+P101,Cap 6,Clothing,3097,134
+P102,Jeans 18,Clothing,1078,535
+P103,Track Suit 7,Clothing,1898,641
+P104,Hoodie 2,Clothing,2567,353
+P105,Casual Pants 11,Clothing,2775,445
+P106,Formal Shirt 3,Clothing,2192,602
+P107,Sports Shoes 16,Clothing,535,332
+P108,Hoodie 3,Clothing,1797,790
+P109,Casual Pants 19,Clothing,2823,211
+P110,Cap 17,Clothing,2475,13
+P111,Track Suit 14,Clothing,2207,573
+P112,T-Shirt 13,Clothing,2039,567
+P113,Cap 9,Clothing,491,636
+P114,Jeans 3,Clothing,736,228
+P115,Hoodie 20,Clothing,2109,575
+P116,Jeans 1,Clothing,2944,163
+P117,T-Shirt 7,Clothing,2486,173
+P118,Formal Shirt 5,Clothing,766,703
+P119,Winter Jacket 1,Clothing,2404,893
+P120,Jeans 6,Clothing,935,377
+P121,Candy 8,Snacks,129,128
+P122,Instant Noodles 5,Snacks,37,441
+P123,Unknown,Snacks,58,549
+P124,Popcorn 20,Snacks,95,913
+P125,Potato Chips 2,Snacks,145,355
+P126,Candy 10,Snacks,106,550
+P127,Cookies 9,Snacks,75,283
+P128,Candy 15,Snacks,53,532
+P129,Candy 15,Snacks,125,491
+P130,Instant Noodles 6,Snacks,25,202
+P131,Chocolate Bar 19,Snacks,104,969
+P132,Popcorn 7,Snacks,39,287
+P133,Cake 8,Snacks,59,280
+P134,Candy 9,Snacks,63,456
+P135,Instant Noodles 15,Snacks,21,509
+P136,Candy 14,Snacks,95,433
+P137,Chocolate Bar 20,Snacks,48,176
+P138,Potato Chips 10,Snacks,86,337
+P139,Biscuits 16,Snacks,25,120
+P140,Chocolate Bar 18,Snacks,61,557
+P141,Namkeen 20,Snacks,148,271
+P142,Potato Chips 20,Snacks,67,252
+P143,Cake 2,Snacks,139,491
+P144,Popcorn 8,Snacks,133,386
+P145,Chocolate Bar 12,Snacks,56,815
+P146,Popcorn 4,Snacks,40,653
+P147,Biscuits 12,Snacks,144,192
+P148,Candy 20,Snacks,31,771
+P149,Cake 8,Snacks,83,-15
+P150,Cookies 1,Snacks,51,955
+P151,Cookies 13,Snacks,61,986
+P152,Candy 17,Snacks,26,447
+P153,Instant Noodles 19,Snacks,103,402
+P154,Cookies 2,Snacks,114,565
+P155,Chocolate Bar 3,Snacks,144,668
+P156,Candy 20,Snacks,141,781
+P157,Instant Noodles 16,Snacks,40,89070
+P158,Wafers 4,Snacks,52,146
+P159,Popcorn 14,Snacks,81,627
+P160,Cake 17,Snacks,76,311
+P161,Energy Drink 12,Beverages,102,155
+P162,Lassi 13,Beverages,55,36
+P163,Mineral Water 7,Beverages,88,309
+P164,Milk 4,Beverages,17,510
+P165,Milk 1,Beverages,30,527
+P166,Smoothie 6,Beverages,103,106
+P167,Orange Juice 5,Beverages,76,218
+P168,Cola 4,Beverages,31,180
+P168,Cola 14,Beverages,64,444
+P170,Smoothie 11,Beverages,86,577
+P171,Milk 11,Beverages,74,598
+P172,Smoothie 19,Beverages,39,925
+P173,Mineral Water 5,Beverages,86,997
+P174,Green Tea 10,Beverages,51,966
+P175,Smoothie 7,Beverages,83,399
+P176,Cola 16,Beverages,71,542
+P177,Lassi 8,Beverages,78,667
+P178,Cola 16,Beverages,100,913
+P179,Milk 9,Beverages,105,121
+P180,Milk 17,Beverages,64,50
+P181,Lemonade 5,Beverages,0,479
+P182,Green Tea 3,Beverages,28,116
+P183,Green Tea 19,Beverages,23,491
+P184,Energy Drink 12,Beverages,79,97
+P185,Milk 10,Beverages,23,561
+P186,Cola 20,Beverages,109,845
+P187,Mineral Water 9,Beverages,114,659
+P188,Milk 4,Beverages,92,670
+P189,Mineral Water 15,Beverages,201689,793
+P190,Lassi 3,Beverages,45,419
+P191,Energy Drink 1,Beverages,39,358
+P191,Milk 20,Beverages,45,619
+P193,Cola 7,Beverages,110,997
+P194,Cola 15,Beverages,35,848
+P195,Green Tea 18,Beverages,23,989
+P196,Orange Juice 17,Beverages,29,829
+P197,Milk 10,Beverages,21,458
+P198,Smoothie 12,Beverages,81,359
+P199,Smoothie 14,Beverages,57,710
+P200,Energy Drink 5,Beverages,47,180

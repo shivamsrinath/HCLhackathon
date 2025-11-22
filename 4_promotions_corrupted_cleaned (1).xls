@@ -1,0 +1,201 @@
+promotion_id,promotion_name,start_date,end_date,discount_percentage,applicable_category
+PR001,Mega Sale 1,2024-11-14,2024-11-17,7,Grocery
+PR002,Grand Sale 2,2024-11-18,2024-11-23,18,Grocery
+PR003,Festival Offer 3,2024-11-17,2024-11-20,8,Snacks
+PR004,Weekend Deal 4,2024-11-16,2024-11-18,25,Clothing
+PR005,Mega Sale 5,2024-11-16,2024-11-17,29,Snacks
+PR006,Super Saver 6,2024-11-16,2024-11-18,30,Clothing
+PR007,Hot Deal 7,2024-11-16,2024-11-20,9,Electronics
+PR008,Special Discount 8,2024-11-17,2024-11-20,10,Beverages
+PR009,Super Saver 9,2024-11-15,2024-11-17,26,Beverages
+PR010,Clearance Sale 10,2024-11-15,2024-11-19,27,Beverages
+PR011,Super Saver 11,2024-11-16,2024-11-20,22,Beverages
+PR012,Mega Sale 12,2024-11-14,2024-11-19,11,Beverages
+PR013,Special Discount 13,2024-11-16,2024-11-21,24,Snacks
+PR014,Flash Sale 14,2024-11-17,2024-11-18,7,Grocery
+PR015,Clearance Sale 15,2024-11-17,2024-11-19,16,Electronics
+PR016,Super Saver 16,2024-11-18,2024-11-22,21,Snacks
+PR017,Hot Deal 17,2024-11-17,2024-11-21,16,Beverages
+PR018,Limited Time Offer 18,2024-11-16,2024-11-17,14,Unknown
+PR019,Clearance Sale 19,2024-11-17,2024-11-21,5,Clothing
+PR020,Mega Sale 20,2024-11-16,2024-11-18,28,Food Items
+PR021,Hot Deal 21,2024-11-15,2024-11-18,20,Beverages
+PR022,Festival Offer 22,2024-11-17,2024-11-21,7,Clothing
+PR023,Clearance Sale 23,2024-11-15,2024-11-19,22,Beverages
+PR024,Flash Sale 24,2024-11-15,2024-11-16,8,Clothing
+PR025,Hot Deal 25,2024-11-14,2024-11-19,15,Beverages
+PR026,Hot Deal 26,2024-11-14,2024-11-17,29,Beverages
+PR027,Super Saver 27,2024-11-18,2024-11-22,15,Clothing
+PR028,Festival Offer 28,2024-11-17,2024-11-22,24,Beverages
+PR029,Clearance Sale 29,2024-11-15,2024-11-20,21,Electronics
+PR030,Flash Sale 30,2024-11-17,2024-11-20,22,Clothing
+PR031,Grand Sale 31,2024-11-15,2024-11-20,27,Beverages
+PR032,Festival Offer 32,2024-11-15,2024-11-16,8,Beverages
+PR033,Hot Deal 33,2024-11-18,2024-11-22,12,Beverages
+PR034,Mega Sale 34,2024-11-17,2024-11-20,29,Snacks
+PR035,Clearance Sale 35,2024-11-16,2024-11-21,29,Grocery
+PR036,Clearance Sale 36,2024-11-14,2024-11-15,22,Snacks
+PR037,Hot Deal 37,2024-11-16,2024-11-21,19,Clothing
+PR038,Special Discount 38,2024-11-16,2024-11-20,11,Snacks
+PR039,Grand Sale 39,2024-11-17,2024-11-18,21,Electronics
+PR040,Limited Time Offer 40,2024-11-16,2024-11-18,6,Electronics
+PR041,Clearance Sale 41,2024-11-17,2024-11-19,24,Beverages
+PR042,Weekend Deal 42,2024-11-17,2024-11-22,17,Snacks
+PR043,Grand Sale 43,2024-11-16,2024-11-20,8,Clothing
+PR044,Special Discount 44,2024-11-17,2024-11-22,18,Beverages
+PR045,Flash Sale 45,2024-11-15,2024-11-16,16,Grocery
+PR046,Mega Sale 46,2024-11-15,2024-11-18,10,Beverages
+PR047,Super Saver 47,2024-11-17,2024-11-20,11,Grocery
+PR048,Clearance Sale 48,2024-11-17,2024-11-20,9,Snacks
+PR049,Grand Sale 49,2024-11-18,2024-11-23,24,Electronics
+PR050,Weekend Deal 50,2024-11-18,2024-11-23,12,Grocery
+PR051,Grand Sale 51,2024-11-15,2024-11-19,17,Grocery
+PR052,Clearance Sale 52,2024-11-17,2024-11-19,21,Beverages
+PR053,Mega Sale 53,2024-11-16,2024-11-17,26,Beverages
+PR054,Clearance Sale 54,2024-11-15,2024-11-18,6,Electronics
+PR055,Hot Deal 55,2024-11-16,2024-11-20,10,Electronics
+PR056,Mega Sale 56,2024-11-16,2024-11-17,0,Beverages
+PR057,Special Discount 57,2024-11-17,2024-11-20,18,Clothing
+PR058,Super Saver 58,2024-11-15,2024-11-20,16,Electronics
+PR059,Festival Offer 59,2024-11-18,2024-11-22,13,Electronics
+PR060,Clearance Sale 60,2024-11-18,2024-11-22,12,Grocery
+PR061,Festival Offer 61,2024-11-17,2024-11-19,14,Beverages
+PR062,Hot Deal 62,2024-11-17,2024-11-19,15,Snacks
+PR063,Limited Time Offer 63,2024-11-18,2024-11-23,28,Snacks
+PR064,Super Saver 64,2024-11-15,2024-11-17,17,Beverages
+PR065,Weekend Deal 65,2024-11-16,2024-11-20,9,Grocery
+PR066,Grand Sale 66,2024-11-17,2024-11-20,9,Clothing
+PR067,Clearance Sale 67,2024-11-16,2024-11-17,10,Beverages
+PR068,Weekend Deal 68,2024-11-16,2024-11-18,9,Electronics
+PR069,Festival Offer 69,2024-11-16,2024-11-17,7,Beverages
+PR070,Flash Sale 70,2024-11-17,2024-11-21,20,Beverages
+PR071,Festival Offer 71,2024-11-16,2024-11-17,28,Grocery
+PR072,Special Discount 72,2024-11-15,2024-11-19,5,Grocery
+PR073,Grand Sale 73,2024-11-17,2024-11-20,14,Beverages
+PR074,Hot Deal 74,2024-11-17,2024-11-19,9,Snacks
+PR075,Mega Sale 75,2024-11-15,2024-11-16,5,Clothing
+PR076,Hot Deal 76,2024-11-17,2024-11-22,8,Snacks
+PR077,Mega Sale 77,2024-11-16,2024-11-20,13,Clothing
+PR078,Grand Sale 78,2024-11-15,2024-11-16,21,Snacks
+PR079,Special Discount 79,2024-11-15,2024-11-20,24,Clothing
+PR080,Flash Sale 80,2024-11-15,2024-11-17,9,Clothing
+PR081,Grand Sale 81,2024-11-17,2024-11-20,19,Clothing
+PR082,Limited Time Offer 82,2024-11-16,2024-11-21,13,Snacks
+PR083,Clearance Sale 83,2024-11-18,2024-11-22,7,Snacks
+PR084,Super Saver 84,2024-11-16,2024-11-19,12,Snacks
+PR085,Limited Time Offer 85,2024-11-15,2024-11-18,13,Grocery
+PR086,Clearance Sale 86,2024-11-16,2024-11-21,12,Beverages
+PR087,Mega Sale 87,2024-11-16,2024-11-17,11,Clothing
+PR088,Limited Time Offer 88,2024-11-15,2024-11-19,7,Grocery
+PR089,Weekend Deal 89,2024-11-16,2024-11-19,29,Electronics
+PR090,Special Discount 90,2024-11-14,2024-11-17,26,Beverages
+PR091,Limited Time Offer 91,2024-11-16,2024-11-19,17,Electronics
+PR092,Limited Time Offer 92,2024-11-15,2024-11-16,16,Snacks
+PR093,Super Saver 93,2024-11-17,2024-11-22,11,Grocery
+PR094,Grand Sale 94,2024-11-17,2024-11-18,18,Beverages
+PR095,Weekend Deal 95,2024-11-15,2024-11-19,10,Beverages
+PR096,Weekend Deal 96,2024-11-18,2024-11-23,28,Beverages
+PR097,Weekend Deal 97,2024-11-17,2024-11-22,21,Electronics
+PR098,Grand Sale 98,2024-11-16,2024-11-19,13,Grocery
+PR099,Super Saver 99,2024-11-18,2024-11-23,14,Grocery
+PR100,Hot Deal 100,2024-11-15,2024-11-17,27,Electronics
+PR101,Mega Sale 101,2024-11-15,2024-11-18,6,Clothing
+PR102,Clearance Sale 102,2024-11-16,2024-11-19,30,Beverages
+PR103,Hot Deal 103,2024-11-16,2024-11-21,28,Beverages
+PR104,Special Discount 104,2024-11-15,2024-11-18,10,Electronics
+PR105,Festival Offer 105,2024-11-15,2024-11-20,10,Beverages
+PR106,Limited Time Offer 106,2024-11-15,2024-11-19,21,Beverages
+PR107,Hot Deal 107,2024-11-17,2024-11-20,20,Electronics
+PR108,Festival Offer 108,2024-11-17,2024-11-18,15,Clothing
+PR109,Limited Time Offer 109,2024-11-15,2024-11-16,14,Grocery
+PR110,Special Discount 110,2024-11-17,2024-11-18,8,Clothing
+PR111,Limited Time Offer 111,2024-11-17,2024-11-21,19,Clothing
+PR112,Mega Sale 112,2024-11-18,2024-11-21,21,Beverages
+PR113,Flash Sale 113,2024-11-18,2024-11-19,24,Beverages
+PR114,Hot Deal 114,2024-11-15,2024-11-19,8,Clothing
+PR115,Clearance Sale 115,2024-11-16,2024-11-18,22,Electronics
+PR116,Clearance Sale 116,2024-11-18,2024-11-21,20,Clothing
+PR117,Weekend Deal 117,2024-11-17,2024-11-18,6,Clothing
+PR118,Clearance Sale 118,2024-11-16,2024-11-21,6,Snacks
+PR119,Flash Sale 119,2024-11-17,2024-11-20,5,Beverages
+PR120,Mega Sale 120,2024-11-15,2024-11-19,23,Grocery
+PR121,Weekend Deal 121,2024-11-17,2024-11-19,24,Grocery
+PR122,Super Saver 122,2024-11-18,2024-11-23,6,Snacks
+PR123,Hot Deal 123,2024-11-15,2024-11-17,17,Grocery
+PR124,Super Saver 124,2024-11-17,2024-11-19,28,Grocery
+PR125,Weekend Deal 125,2024-11-18,2024-11-20,28,Beverages
+PR126,Limited Time Offer 126,2024-11-16,2024-11-18,28,Grocery
+PR127,Mega Sale 127,2024-11-15,2024-11-17,20,Beverages
+PR128,Grand Sale 128,2024-11-14,2024-11-17,17,Clothing
+PR129,Festival Offer 129,2024-11-17,2024-11-21,8,Grocery
+PR130,Hot Deal 130,2024-11-17,2024-11-19,25,Snacks
+PR131,Grand Sale 131,2024-11-17,2024-11-21,16,Clothing
+PR132,Festival Offer 132,2024-11-16,2024-11-17,10,Clothing
+PR133,Flash Sale 133,2024-11-14,2024-11-15,12,Beverages
+PR134,Super Saver 134,2024-11-16,2024-11-21,5,Snacks
+PR135,Special Discount 135,2024-11-18,2024-11-21,10,Beverages
+PR136,Limited Time Offer 136,2024-11-15,2024-11-17,10,Snacks
+PR137,Super Saver 137,2024-11-15,2024-11-16,16,Beverages
+PR138,Hot Deal 138,2024-11-16,2024-11-18,28,Clothing
+PR139,Super Saver 139,2024-11-15,2024-11-16,23,Snacks
+PR140,Flash Sale 140,2024-11-15,2024-11-16,13,Clothing
+PR141,Limited Time Offer 141,2024-11-18,2024-11-19,28,Beverages
+PR142,Clearance Sale 142,2024-11-16,2024-11-20,30,Beverages
+PR143,Festival Offer 143,2024-11-18,2024-11-20,12,Grocery
+PR144,Festival Offer 144,2024-11-16,2024-11-20,21,Beverages
+PR145,Weekend Deal 145,2024-11-16,2024-11-19,11,Grocery
+PR146,Super Saver 146,2024-11-17,2024-11-19,6,Snacks
+PR147,Grand Sale 147,2024-11-16,2024-11-18,11,Clothing
+PR148,Special Discount 148,2024-11-16,2024-11-18,28,Grocery
+PR149,Limited Time Offer 149,2024-11-15,2024-11-18,12,Clothing
+PR150,Hot Deal 150,2024-11-14,2024-11-17,13,Electronics
+PR151,Grand Sale 151,2024-11-16,2024-11-20,10,Grocery
+PR152,Super Saver 152,2024-11-17,2024-11-22,26,Clothing
+PR153,Super Saver 153,2024-11-18,2024-11-22,17,Electronics
+PR154,Limited Time Offer 154,2024-11-17,2024-11-19,17,Grocery
+PR155,Festival Offer 155,2024-11-15,2024-11-19,30,Snacks
+PR156,Grand Sale 156,2024-11-16,2024-11-20,29,Beverages
+PR157,Weekend Deal 157,2024-11-17,2024-11-18,28,Beverages
+PR158,Grand Sale 158,2024-11-18,2024-11-23,26,Electronics
+PR159,Mega Sale 159,2024-11-16,2024-11-20,18,Grocery
+PR160,Clearance Sale 160,2024-11-16,2024-11-21,5,Beverages
+PR161,Clearance Sale 161,2024-11-17,2024-11-22,19,Grocery
+PR162,Mega Sale 162,2024-11-17,2024-11-22,13,Snacks
+PR163,Grand Sale 163,2024-11-14,2024-11-18,15,Clothing
+PR164,Festival Offer 164,2024-11-17,2024-11-19,7,Snacks
+PR165,Weekend Deal 165,2024-11-15,2024-11-18,21,Electronics
+PR166,Clearance Sale 166,2024-11-16,2024-11-19,11,Clothing
+PR167,Mega Sale 167,2024-11-18,2024-11-19,28,Beverages
+PR168,Hot Deal 168,2024-11-18,2024-11-23,28,Snacks
+PR169,Super Saver 169,2024-11-16,2024-11-17,28,Grocery
+PR170,Special Discount 170,2024-11-18,2024-11-20,5,Beverages
+PR171,Super Saver 171,2024-11-17,2024-11-18,10,Snacks
+PR172,Mega Sale 172,2024-11-16,2024-11-17,27,Electronics
+PR173,Mega Sale 173,2024-11-17,2024-11-22,18,Snacks
+PR174,Mega Sale 174,2024-11-15,2024-11-17,14,Electronics
+PR175,Hot Deal 175,2024-11-16,2024-11-17,8,Grocery
+PR176,Grand Sale 176,2024-11-16,2024-11-17,5,Electronics
+PR177,Super Saver 177,2024-11-15,2024-11-16,26,Beverages
+PR178,Weekend Deal 178,2024-11-16,2024-11-19,19,Snacks
+PR179,Grand Sale 179,2024-11-18,2024-11-21,8,Beverages
+PR180,Clearance Sale 180,2024-11-17,2024-11-18,22,Electronics
+PR181,Special Discount 181,2024-11-18,2024-11-20,14,Clothing
+PR182,Clearance Sale 182,2024-11-17,2024-11-22,22,Clothing
+PR183,Weekend Deal 183,2024-11-18,2024-11-20,17,Grocery
+PR184,Limited Time Offer 184,2024-11-18,2024-11-20,12,Beverages
+PR185,Hot Deal 185,2024-11-15,2024-11-19,30,Beverages
+PR186,Special Discount 186,2024-11-16,2024-11-19,13,Beverages
+PR187,Grand Sale 187,2024-11-15,2024-11-16,24,Beverages
+PR188,Clearance Sale 188,2024-11-17,2024-11-18,22,Beverages
+PR189,Flash Sale 189,2024-11-15,2024-11-20,13,Unknown
+PR190,Grand Sale 190,2024-11-14,2024-11-15,16,Snacks
+PR191,Limited Time Offer 191,2024-11-15,2024-11-19,12,Clothing
+PR192,Clearance Sale 192,2024-11-16,2024-11-17,6,Snacks
+PR193,Limited Time Offer 193,2024-11-18,2024-11-19,14,Electronics
+PR194,Super Saver 194,2024-11-17,2024-11-18,15,Clothing
+PR195,Flash Sale 195,2024-11-14,2024-11-16,6,Snacks
+PR196,Clearance Sale 196,2024-11-17,2024-11-19,23,Electronics
+PR197,Super Saver 197,2024-11-18,2024-11-22,12,Snacks
+PR198,Super Saver 198,2024-11-16,2024-11-17,12,Clothing
+PR199,Limited Time Offer 199,2024-11-18,2024-11-19,9,Electronics
+PR200,Grand Sale 200,2024-11-17,2024-11-19,20,Snacks
