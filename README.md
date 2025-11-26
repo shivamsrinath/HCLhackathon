@@ -1,9 +1,10 @@
 # New_Hackathon_Solution-
 ## Team :
+Shivam Srinath,
 Nirmal Pandey ,
 Parth Patkar ,
-Balraj Singh Shekhawat ,
-Shivam Srinath
+Balraj Singh Shekhawat
+
 
 This project follows a real-world retail analytics pipeline where we start with corrupted/raw data, clean it based on business and data quality rules, and then use it to generate insights and machine learning predictions.
 
